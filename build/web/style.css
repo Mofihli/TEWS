@@ -1,0 +1,57 @@
+/* 
+    Created on : 04 Mar 2019, 2:38:08 PM
+    Author     : Katleho Motloung
+*/
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    background-image: url(folder/tsunami-warning-system-at-los-verdes-beach-playa-los-verdes-iquique-F7A2NW.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: #be7429;
+    font-weight: normal;
+    width: 450px;
+}
+
+h3 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: green;
+    font-weight: normal;
+    width: 450px;
+}
+
+table {
+    width: 300px;
+    padding: 10px;
+    background-color: #c5e7e0;
+}    
+
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
