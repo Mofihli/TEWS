@@ -122,7 +122,7 @@
                 
                 <tr>
                     <td>Password</td>
-                    <td><input type="text" name="txt_password" id="password" required=""></td>
+                    <td><input type="password" name="txt_password" id="password" required=""></td>
                 </tr> 
                 <tr>
                     <td>Location</td>
@@ -130,7 +130,7 @@
                 </tr>  
     
                 <tr>
-                    <td><input type="submit" name="btn_add" value="Add"></td>
+                    <td><input type="submit" name="btn_add" value="Register"></td>
                     <td><a href="index.html">----->>>>>Back</a></td>
                 </tr>
     

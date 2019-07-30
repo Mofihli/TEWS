@@ -17,9 +17,9 @@
         </center><br/>
         
         <%
-            String name = (String)request.getAttribute("name");
-            String surname = (String)request.getAttribute("surname");
-            String location = (String)request.getAttribute("location");
+            String name = (String)request.getAttribute("txt_name");
+            String surname = (String)request.getAttribute("txt_surname");
+            String location = (String)request.getAttribute("txt_location");
         %>
         <p>
             Hello <b><%=name%> <%=surname%></b>. Your location is <b><%=location%></b>. 
